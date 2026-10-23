@@ -37,8 +37,8 @@ In real hardware, you would then feed the information on logical errors back int
 
 1) Theoretical correctness. Does the experiment actually set up a surface correctly? Is the pipeline fully functional? (30%)
 2) Sophistication of the implementation. Have you optimized your circuits for the performance/architecture of the quantum computer? Can you prove a low number of SWAPS? (30%)
-3) Logical error rate statistics. (20%)
-4) Flexibility of the experiment and integration of advanced functionalities - Circuit compilation techniques, Noise Model improvements, Pulse-level compilations,... (20%)
+3) Logical error rate statistics and correct reporting. (15%)
+4) Flexibility of the experiment and integration of advanced functionalities - Circuit compilation techniques, Noise Model improvements, Pulse-level compilations,... (25%)
 
 
 Bonus points will be awarded (at our discretion) for:
@@ -49,7 +49,11 @@ Bonus points will be awarded (at our discretion) for:
 
 ## Submissions
 
-Submit your code and any other key results through [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeKTmoGUzxhrc4bPtLJ5Vp3VtoFSrtoes1UP3_6IoLgZDLIxg/viewform?usp=publish-editor). 
+Submit your code and any other key results through...
+
+**Talk to your organizers!** 
+Upload you code to GitHub, make it available to us, and communicate the link to your organizers. 
+Additional, **you can create a 3 min demo video** to go through your main results. Share this with the organizers as well.
 
 
 # Useful Resources
