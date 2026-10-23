@@ -47,7 +47,7 @@ Bonus points will be awarded (at our discretion) for:
 - Experimentally identifying the most important reasons for improving LER.
 - Other particularly cool and surprising ideas
 
-## Submissions
+# Submissions
 
 Submit your code and any other key results through...
 
