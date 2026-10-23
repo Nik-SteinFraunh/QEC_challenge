@@ -36,6 +36,7 @@ In real hardware, you would then feed the information on logical errors back int
 Throughout this repository you will find mentions of IQM Emerald, the 54-qubit system on IQM Resonance. This system is undergoing performance upgrades at this time and will give you unusable results!
 
 **Please disregard any mention of IQM Emerald! While we cannot block IQM Emerald, the usage of this system is prohibited for the duration of this event!**
+
 **Use our 20-qubit machine IQM Garnet instead!**
 
 A distance-3 surface memory experiment needs 17 qubits and can be executed on IQM Garnet!
